@@ -1,0 +1,12 @@
+.card {
+    width:350px;
+    min-height:230px;
+    border:5px solid grey;
+}
+.picture-section {
+    height:250px;
+    position: relative;
+}
+.picture {
+    width:350px;
+}
