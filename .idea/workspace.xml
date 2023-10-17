@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="49b6d5e8-7673-4a0e-823a-94088f2807c8" name="Changes" comment="" />
+    <list default="true" id="49b6d5e8-7673-4a0e-823a-94088f2807c8" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/style.css" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -18,10 +22,14 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2WczKY1vWqsOtF3PUcBHNTgZrFg" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -71,11 +79,33 @@
       <workItem from="1697134136068" duration="68000" />
       <workItem from="1697134259226" duration="16000" />
       <workItem from="1697134289783" duration="79000" />
-      <workItem from="1697134490842" duration="1211000" />
+      <workItem from="1697134490842" duration="1382000" />
+      <workItem from="1697217671060" duration="2548000" />
+      <workItem from="1697478019270" duration="840000" />
+      <workItem from="1697478897539" duration="69000" />
+      <workItem from="1697478976481" duration="309000" />
+      <workItem from="1697479304468" duration="1747000" />
+      <workItem from="1697481194955" duration="240000" />
+      <workItem from="1697564354825" duration="323000" />
+      <workItem from="1697564695172" duration="2016000" />
+      <workItem from="1697566743963" duration="704000" />
     </task>
+    <task id="LOCAL-00001" summary="I did progress">
+      <created>1697135828846</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1697135828846</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="did progress" />
+    <MESSAGE value="I did progress" />
+    <option name="LAST_COMMIT_MESSAGE" value="I did progress" />
   </component>
 </project>

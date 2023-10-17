@@ -10,3 +10,46 @@
 .picture {
     width:350px;
 }
+.flex-container { display: flex; align-items: flex-start; }
+}
+p::first-letter {
+    color: dimgrey;
+    font-size: xx-large;
+}
+body {
+    color: red;
+}
+body {
+    background-color: lightblue;
+}
+.flex-item { width: 100px; margin:10px;} {
+}
+::selection {
+    color:red;
+    background:yellow;
+}
+.card-hover {
+    box-shadow: grey;
+}
+.flex-container {display: flex; align-items:baseline;}
+
+{
+.flex-item {
+    width: 100px;
+    margin: 10px
+}
+
+.flex-container {display: flex; justify-content: flex-end;}
+
+{
+.flex-item {
+    width: 100px;
+    margin: 10px
+}
+.flex-container { display: flex; justify-content: flex-end; }
+.flex-item {width: 100px; margin:10px;}
+.flex-container {display: flex; flex-flow: row wrap;}
+.flex-item {width: 100px; margin: 10px;}
+.card-hover {
+    box-shadow: black;
+}
